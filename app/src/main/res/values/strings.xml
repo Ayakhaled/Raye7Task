@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Raye7Task</string>
+    <string name="title_activity_maps">Raye7</string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="title_activity_from">From</string>
+</resources>

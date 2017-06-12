@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aya/.android/build-cache/587504ab4d9f10ff2149bef3bd469f1f1bea67a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/aya/Raye7Task/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_990311d42a489f20ff19002baa68c204f04ccb27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Raye7Task/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43afdc84b075f0dd7fdff4e918f8b1274a761577">
+        <dex dex="/home/aya/Raye7Task/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0e8d3fc9458c3365df1786e63e760a378298bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/.android/build-cache/aaec5c995bbb80bb7673edbcdf2158acdeb3bfff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="189cdb5ed1f6c37a6c327b3a220ad1bb95bb64f1">
+        <dex dex="/home/aya/Raye7Task/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c22f58b0410d0c88f34cfbeb2eb57f1ac280ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aya/Raye7Task/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/aya/Raye7Task/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff8e26e4eded9481ad3b06b14e620d11d9a5c5d2/classes.dex" />
+    </item>
+
+</items>
